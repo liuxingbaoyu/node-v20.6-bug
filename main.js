@@ -1,2 +1,2 @@
-import { File } from "./mod/index.js";
+import {} from "./mod/index.js";
 console.log("success");
